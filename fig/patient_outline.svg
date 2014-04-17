@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="965.25952"
+   height="372.0455"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="patient_outline.svg">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       inkscape:stockid="InfiniteLineEnd"
+       id="InfiniteLineEnd"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <g
+         id="g4002"
+         style="fill:#000000">
+        <circle
+           id="circle4004"
+           r="0.80000001"
+           cy="0"
+           cx="3"
+           sodipodi:cx="3"
+           sodipodi:cy="0"
+           sodipodi:rx="0.80000001"
+           sodipodi:ry="0.80000001" />
+        <circle
+           id="circle4006"
+           r="0.80000001"
+           cy="0"
+           cx="6.5"
+           sodipodi:cx="6.5"
+           sodipodi:cy="0"
+           sodipodi:rx="0.80000001"
+           sodipodi:ry="0.80000001" />
+        <circle
+           id="circle4008"
+           r="0.80000001"
+           cy="0"
+           cx="10"
+           sodipodi:cx="10"
+           sodipodi:cy="0"
+           sodipodi:rx="0.80000001"
+           sodipodi:ry="0.80000001" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3770"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.82919577"
+     inkscape:cx="480.47217"
+     inkscape:cy="19.658384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.619101,-327.92776)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="matrix(1.1839804,0,0,1.1840434,-150.91643,254.67143)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="496.54953"
+           height="58.718494"
+           x="317.1748"
+           y="55.475441" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:'Times New Roman, Bold'">Outline for patient progress in chronic malignancies</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#5f5f5f;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#InfiniteLineEnd)"
+       d="m 76.741316,537.21017 724.798694,0"
+       id="path2993"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4407"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="translate(30.913769,163.35393)"><flowRegion
+         id="flowRegion4409"><rect
+           id="rect4411"
+           width="184.51616"
+           height="30.149685"
+           x="851.42737"
+           y="404.00592" /></flowRegion><flowPara
+         id="flowPara4413">Time line</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="46.209576"
+       y="482.17664"
+       id="text4415"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4417"
+         x="46.209576"
+         y="482.17664">Time 0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000003, 0.99000001;stroke-dashoffset:0.495"
+       d="m 75.535318,490.17663 0,69.94729 1.205988,0"
+       id="path4419"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="743.20691"
+       y="600.47345"
+       id="text4415-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4417-0"
+         x="743.20691"
+         y="600.47345" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000003, 0.99000001;stroke-dashoffset:0.495"
+       d="m 780.53266,486.47342 0,69.94729 1.20599,0"
+       id="path4419-0"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4445"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="translate(0,308.2677)"><flowRegion
+         id="flowRegion4447"><rect
+           id="rect4449"
+           width="4.8239512"
+           height="31.355682"
+           x="739.27051"
+           y="295.46701" /></flowRegion><flowPara
+         id="flowPara4451"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4453"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="translate(0,308.2677)"><flowRegion
+         id="flowRegion4455"><rect
+           id="rect4457"
+           width="1.2059878"
+           height="33.767658"
+           x="744.09448"
+           y="293.05505" /></flowRegion><flowPara
+         id="flowPara4459"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4461"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="translate(0,182.2677)"><flowRegion
+         id="flowRegion4463"><rect
+           id="rect4465"
+           width="150.74847"
+           height="57.887402"
+           x="703.09088"
+           y="242.40355"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4467">Time last follow up/death</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4469"
+       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold'"
+       transform="translate(-8.883829,151.44375)"><flowRegion
+         id="flowRegion4471"><rect
+           id="rect4473"
+           width="109.7449"
+           height="21.707798"
+           x="26.531733"
+           y="422.09573"
+           style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:'Times New Roman, Bold'" /></flowRegion><flowPara
+         id="flowPara4475"
+         style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ff0909;fill-opacity:1;-inkscape-font-specification:'Times New Roman, Bold'">Initial State</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4469-8"
+       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold'"
+       transform="translate(197.96737,152.02829)"><flowRegion
+         id="flowRegion4471-0"><rect
+           id="rect4473-2"
+           width="109.7449"
+           height="21.707798"
+           x="26.531733"
+           y="422.09573"
+           style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:'Times New Roman, Bold'" /></flowRegion><flowPara
+         id="flowPara4475-1"
+         style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ff0909;fill-opacity:1;-inkscape-font-specification:'Times New Roman, Bold'">State 1</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000003, 0.99000001;stroke-dashoffset:0.495"
+       d="m 274.33229,488.61855 0,69.94729 1.20599,0"
+       id="path4419-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="199.89803"
+       y="481.48431"
+       id="text4415-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6"
+         x="199.89803"
+         y="481.48431">Date start: state 1</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4469-8-3"
+       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Bold'"
+       transform="translate(398.14552,150.88963)"><flowRegion
+         id="flowRegion4471-0-8"><rect
+           id="rect4473-2-7"
+           width="109.7449"
+           height="21.707798"
+           x="26.531733"
+           y="422.09573"
+           style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:'Times New Roman, Bold'" /></flowRegion><flowPara
+         id="flowPara4475-1-4"
+         style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ff0909;fill-opacity:1;-inkscape-font-specification:'Times New Roman, Bold'">State 2</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000003, 0.99000001;stroke-dashoffset:0.495"
+       d="m 474.51044,487.47989 0,69.94729 1.20599,0"
+       id="path4419-7-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="400.07617"
+       y="446.34564"
+       id="text4415-9-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6-6"
+         x="400.07617"
+         y="446.34564">Date end: state 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="400.30957"
+       y="473.16217"
+       id="text4415-9-2-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6-6-1"
+         x="400.30957"
+         y="473.16217">Date start: state 2</tspan></text>
+    <path
+       style="fill:#008000;stroke:#fc0303;stroke-width:0.99000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000008, 0.99000009;stroke-dashoffset:0.49499996"
+       d="m 122.84042,425.12353 0,129.82891 1.20599,0"
+       id="path4419-7-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.83427429px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="91.923706"
+       y="403.24225"
+       id="text4415-9-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96393087,1.0374188)"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6-65"
+         x="91.923706"
+         y="403.24225">Date start</tspan></text>
+    <path
+       style="fill:#008000;stroke:#fc0303;stroke-width:0.99000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000008, 0.99000009;stroke-dashoffset:0.49499996"
+       d="m 191.96719,424.76001 0,129.82892 1.20599,0"
+       id="path4419-7-8-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.83427429px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="163.63686"
+       y="402.89246"
+       id="text4415-9-4-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96393087,1.0374188)"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6-65-2"
+         x="163.63686"
+         y="402.89246">Date end</tspan></text>
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:#fc0303;stroke-width:0.99000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.495"
+       id="rect4678"
+       width="68.741302"
+       height="7.2359271"
+       x="122.56884"
+       y="480.52869" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.893116px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="134.47354"
+       y="474.8483"
+       id="text4680"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0083988,0.99167116)"><tspan
+         sodipodi:role="line"
+         id="tspan4682"
+         x="134.47354"
+         y="474.8483">Treat 1</tspan></text>
+    <path
+       style="fill:#008000;stroke:#fc0303;stroke-width:0.99000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000008, 0.99000009;stroke-dashoffset:0.49499996"
+       d="m 599.01833,427.77974 0,129.82891 1.20599,0"
+       id="path4419-7-8-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.83427429px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="585.91962"
+       y="405.80267"
+       id="text4415-9-4-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96393087,1.0374188)"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6-65-6"
+         x="585.91962"
+         y="405.80267">Date start</tspan></text>
+    <path
+       style="fill:#008000;stroke:#fc0303;stroke-width:0.99000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.97000008, 0.99000009;stroke-dashoffset:0.49499996"
+       d="m 668.14511,427.41622 0,129.82892 1.20599,0"
+       id="path4419-7-8-2-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.83427429px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="657.63269"
+       y="405.45288"
+       id="text4415-9-4-3-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96393087,1.0374188)"><tspan
+         sodipodi:role="line"
+         id="tspan4417-6-65-2-9"
+         x="657.63269"
+         y="405.45288">Date end</tspan></text>
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:#fc0303;stroke-width:0.99000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.495"
+       id="rect4678-3"
+       width="68.741302"
+       height="7.2359271"
+       x="598.74677"
+       y="483.18494" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.893116px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="606.68542"
+       y="477.52682"
+       id="text4680-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0083988,0.99167116)"><tspan
+         sodipodi:role="line"
+         id="tspan4682-7"
+         x="606.68542"
+         y="477.52682">Treat 2</tspan></text>
+    <path
+       style="fill:none;stroke:#0011f6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 244.37361,507.06046 0,159.19039"
+       id="path4747"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.41121769px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="242.3766"
+       y="693.3631"
+       id="text4749"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0185412,0.98179632)"><tspan
+         sodipodi:role="line"
+         id="tspan4751"
+         x="242.3766"
+         y="693.3631">Measurement 1</tspan><tspan
+         sodipodi:role="line"
+         x="242.3766"
+         y="711.37714"
+         id="tspan4753">Date measurement 1</tspan></text>
+    <path
+       style="fill:none;stroke:#0011f6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 388.24951,505.51399 0,159.19039"
+       id="path4747-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.41121769px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="383.63342"
+       y="691.78711"
+       id="text4749-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0185412,0.98179632)"><tspan
+         sodipodi:role="line"
+         id="tspan4751-9"
+         x="383.63342"
+         y="691.78711">Measurement 2</tspan><tspan
+         sodipodi:role="line"
+         x="383.63342"
+         y="709.80115"
+         id="tspan4753-0">Date measurement 2</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4782"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="translate(-20,160.2677)"><flowRegion
+         id="flowRegion4784"><rect
+           id="rect4786"
+           width="219.48978"
+           height="85.62513"
+           x="664.49927"
+           y="463.09933" /></flowRegion><flowPara
+         id="flowPara4788"
+         style="fill:#ff0000">State variables</flowPara><flowPara
+         id="flowPara4790"
+         style="fill:#0000ff">Measurement variables</flowPara><flowPara
+         id="flowPara4792"
+         style="fill:#008000">Treatment variables</flowPara></flowRoot>  </g>
+</svg>
